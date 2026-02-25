@@ -20,6 +20,9 @@
 
 <div align="center">
 
+  <img src="assets/architecture.png" width="100%">
+  <p align="center">Architecture</p>
+
   <img src="assets/home-page.png" width="100%">
   <p align="center">Home Page</p>
 
