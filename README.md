@@ -27,11 +27,16 @@
   <img src="assets/home-page.png" width="100%">
   <p align="center">Home Page</p>
 
-  <img src="assets/detail-modal.png" width="100%">
-  <p align="center">Detail Modal</p>
+  <img src="assets/instance.png" width="100%">
+  <p align="center">instance</p>
+  
+  <img src="assets/command" width="100%">
+  <p align="center">commands</p>
 
-  <img src="assets/grid-genre.png" width="100%">
-  <p align="center">Grid Genre Page</p>
+  <img src="assets/monitoring-promograf.png" width="100%">
+  <p align="center">Monitoring</p>
+
+  
 
 </div>
 
