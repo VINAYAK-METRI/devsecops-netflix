@@ -31,7 +31,7 @@
   <p align="center">instance</p>
   
   <img src="assets/command" width="100%">
-  <p align="center">commands</p>
+  <p align="center">command</p>
 
   <img src="assets/monitoring-promograf.png" width="100%">
   <p align="center">Monitoring</p>
