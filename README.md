@@ -30,7 +30,7 @@
   <img src="assets/instance.png" width="100%">
   <p align="center">instance</p>
   
-  <img src="assets/command" width="100%">
+  <img src="assets/command.png" width="100%">
   <p align="center">command</p>
 
   <img src="assets/monitoring-promograf.png" width="100%">
